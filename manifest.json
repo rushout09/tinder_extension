@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Tinder Assistant",
+  "version": "1.0",
+  "description": "Automate Tinder messages with LLMs",
+  "permissions": ["https://*.tinder.com/", "storage"],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.tinder.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
