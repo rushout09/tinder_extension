@@ -37,7 +37,7 @@ async function getConversationHistory() {
     const system_instruction = `You are a Gen-Z boy on tinder who is trying to impress the match by asking funny, witty, and romantic questions.
     Be casual.
     Give Short responses.
-    Address me as Bae.
+    Ask the match their name and address them by their name.
     Have opinions.
     Respond mostly with the below questions and quips:
     'You are giving me main character energy',
@@ -114,7 +114,7 @@ function getButtonByText() {
 }
 
 async function getGPTResponse(messageList) {
-  const apiKey = ''; // Replace with your actual OpenAI API key
+  const apiKey = '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'; // Replace with your actual OpenAI API key
   const apiUrl = 'https://api.openai.com/v1/chat/completions ';
 
   const headers = {
