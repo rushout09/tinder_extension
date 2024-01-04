@@ -1,15 +1,15 @@
 # Your AI Conversation Companion
 
-Do you want to break the ice and get instant replies in conversations on Tinder ? Worry no more! This extension allows you to input your personality, and GPT takes care of the talking on your behalf.
+Do you want to break the ice and get instant replies in conversations on Tinder? Worry no more! This extension allows you to input your personality, and GPT takes care of the talking on your behalf.
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
 
 1. Clone the repository to your local machine.
-2. Open any IDE, preferrably Python friendly, such as PyCharm.
+2. Open any IDE, preferably Python-friendly, such as PyCharm.
 3. Create a Python virtual environment
 4. In the project directory, you can run the `main.py` file.
-5. You can also login to the google developer account to test out the chrome extension yourself.
+5. You can also log in to the Google developer account to test out the Chrome extension yourself.
 
 
 # How it works:
@@ -18,10 +18,10 @@ You can run the Python file, it will open tinder on the chrome window. u can log
 
 # Product Demo
 
-file:///home/rushabh/Downloads/Screencast%20from%2003-01-24%2002_47_46%20AM%20IST%20(1).mp4
+https://github.com/rushout09/tinder_extension/assets/26388764/e2ff7735-b572-4810-9a27-49dfe63a4fe7
 
 
 # Connect With Us:
-Wanna share a feedback or connect with us ? Follow us on Twitter and send a DM !
+Wanna share feedback or connect with us? Follow us on Twitter and send a DM!
 - https://twitter.com/rushout09
 - https://twitter.com/KashMkj
