@@ -11,6 +11,11 @@ These instructions will get you a copy of the project up and running on your loc
 4. In the project directory, you can run the `main.py` file.
 5. You can also login to the google developer account to test out the chrome extension yourself.
 
+
+# How it works:
+
+You can run the Python file, it will open tinder on the chrome window. u can log in manually. once u log in, it will start talking to your most recent matches.
+
 # Product Demo
 
 Check the product demo here: https://drive.google.com/file/d/1ax0C1rFUBBJSTcIBXtuNHFbzR6_IsB28/view
