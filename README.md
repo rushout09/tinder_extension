@@ -18,7 +18,8 @@ You can run the Python file, it will open tinder on the chrome window. u can log
 
 # Product Demo
 
-Check the product demo here: https://drive.google.com/file/d/1ax0C1rFUBBJSTcIBXtuNHFbzR6_IsB28/view
+file:///home/rushabh/Downloads/Screencast%20from%2003-01-24%2002_47_46%20AM%20IST%20(1).mp4
+
 
 # Connect With Us:
 Wanna share a feedback or connect with us ? Follow us on Twitter and send a DM !
