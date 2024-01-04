@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You can run the Python file, it will open tinder on the chrome window. u can log in manually. once u log in, it will start talking to your most recent matches.
 
-# Product Demo
+# Demo
 
 https://github.com/rushout09/tinder_extension/assets/26388764/e2ff7735-b572-4810-9a27-49dfe63a4fe7
 
